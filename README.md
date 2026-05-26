@@ -1,3 +1,5 @@
+> _Academic project developed as part of a university course._
+___
 # 🐔 Chicken Invaders
 
 Implementare în **C++** a jocului clasic *Chicken Invaders*, rulat în consolă (terminal).
@@ -35,7 +37,3 @@ Implementare în **C++** a jocului clasic *Chicken Invaders*, rulat în consolă
 - Funcția `game_keys` gestionează input-ul.
 - Proiectilele inamice sunt generate cu `rand()`, doar din găinile fără alta dedesubt (`ExistChicken`).
 - Cursivitatea jocului a fost îmbunătățită înlocuind `system("cls")` cu o funcție de redesenare optimizată.
-
----
-
-> _Academic project developed as part of a university course._
